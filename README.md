@@ -3,7 +3,7 @@
 🚀 **Software Engineer | Frontend Engineer | Experienced in Vue and React**  
 📍 Ottawa, ON  
 📧 denys.o.demchenko@gmail.com  
-🔗 [LinkedIn](https://www.linkedin.com/in/denysdemchenko/)  
+🔗 [linkedin.com/in/denysdemchenko](https://www.linkedin.com/in/denysdemchenko/)  
 
 
 ## 💻 About Me
